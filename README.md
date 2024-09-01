@@ -12,11 +12,11 @@ This course contains lots of challenges for Sklearn, each challenge is a small S
 |   Index | Name                                             | Difficulty   | Practice                                                                   |
 |---------|--------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |       1 | 🎯 Understanding Metrics and Scoring              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185172'>Start Challenge</a> |
-|       2 | 🎯 Mastering naive bayes                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/250427'>Start Challenge</a> |
+|       2 | 🎯 Naive Bayes Classification                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/250427'>Start Challenge</a> |
 |       3 | 🎯 Predicting Flower Types with Nearest Neighbors | ★☆☆          | <a target='_blank' href='https://labex.io/labs/256147'>Start Challenge</a> |
 |       4 | 🎯 Understanding Validation Curves                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/106940'>Start Challenge</a> |
-|       5 | 🎯 Mastering Decision Trees                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92597'>Start Challenge</a>  |
-|       6 | 🎯 Mastering Linear Regression                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185171'>Start Challenge</a> |
+|       5 | 🎯 Decision Trees                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92597'>Start Challenge</a>  |
+|       6 | 🎯 Linear Regression                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185171'>Start Challenge</a> |
 |       7 | 🎯 Clustering and Insights                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/198286'>Start Challenge</a> |
 
 ## More
