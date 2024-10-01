@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                              | Difficulty   | Practice                                                                                                                              |
-|---------|---------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                             | Difficulty   | Practice                                                                                                                              |
+|---------|--------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------|
 |       1 | 🎯 Understanding Metrics and Scoring              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/pandas-understanding-metrics-and-scoring-185172'>Start Challenge</a>              |
 |       2 | 🎯 Naive Bayes Classification                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-naive-bayes-classification-250427'>Start Challenge</a>                     |
 |       3 | 🎯 Predicting Flower Types with Nearest Neighbors | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-predicting-flower-types-with-nearest-neighbors-256147'>Start Challenge</a> |
