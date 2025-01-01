@@ -25,15 +25,15 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                             | Difficulty   | Practice                                                                                                                              |
-|---------|--------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 🎯 Understanding Metrics and Scoring              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/pandas-understanding-metrics-and-scoring-185172'>Start Challenge</a>              |
-|       2 | 🎯 Naive Bayes Classification                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-naive-bayes-classification-250427'>Start Challenge</a>                     |
-|       3 | 🎯 Predicting Flower Types with Nearest Neighbors | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-predicting-flower-types-with-nearest-neighbors-256147'>Start Challenge</a> |
-|       4 | 🎯 Understanding Validation Curves                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-understanding-validation-curves-106940'>Start Challenge</a>                |
-|       5 | 🎯 Decision Trees                                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/pandas-decision-trees-92597'>Start Challenge</a>                                  |
-|       6 | 🎯 Linear Regression                              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/pandas-linear-regression-185171'>Start Challenge</a>                              |
-|       7 | 🎯 Clustering and Insights                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-clustering-and-insights-198286'>Start Challenge</a>                        |
+|   Index | Name                                             | Difficulty   | Practice                                                                                                                         |
+|---------|--------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🎯 Understanding Metrics and Scoring              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/pandas-understanding-metrics-and-scoring-185172'>Start Challenge</a>              |
+|       2 | 🎯 Naive Bayes Classification                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/python-naive-bayes-classification-250427'>Start Challenge</a>                     |
+|       3 | 🎯 Predicting Flower Types with Nearest Neighbors | ★☆☆          | <a target='_blank' href='https://labex.io/labs/python-predicting-flower-types-with-nearest-neighbors-256147'>Start Challenge</a> |
+|       4 | 🎯 Understanding Validation Curves                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/python-understanding-validation-curves-106940'>Start Challenge</a>                |
+|       5 | 🎯 Decision Trees                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/pandas-decision-trees-92597'>Start Challenge</a>                                  |
+|       6 | 🎯 Linear Regression                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/pandas-linear-regression-185171'>Start Challenge</a>                              |
+|       7 | 🎯 Clustering and Insights                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/python-clustering-and-insights-198286'>Start Challenge</a>                        |
 
 ## More
 
