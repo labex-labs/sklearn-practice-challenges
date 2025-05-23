@@ -31,17 +31,17 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                                                 | Сложность   | Практика                                                                                                                              |
 |----------|----------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🎯 Понимание метрик и оценки                             | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/python-understanding-metrics-and-scoring-185172'>Начать Испытание</a>               |
-|        2 | 🎯 Классификация наивным Байесом                         | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/python-naive-bayes-classification-250427'>Начать Испытание</a>                      |
-|        3 | 🎯 Предсказание типов цветов с использованием ближайш... | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Начать Испытание</a> |
-|        4 | 🎯 Понимание кривых валидации                            | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/python-understanding-validation-curves-106940'>Начать Испытание</a>                 |
-|        5 | 🎯 Деревья решений                                       | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/python-decision-trees-92597'>Начать Испытание</a>                                   |
-|        6 | 🎯 Линейная регрессия                                    | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/python-linear-regression-185171'>Начать Испытание</a>                               |
-|        7 | 🎯 Кластеризация и инсайты                               | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/python-clustering-and-insights-198286'>Начать Испытание</a>                         |
+|        1 | 🎯 Понимание метрик и оценки                             | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/python-understanding-metrics-and-scoring-185172'>Начать Испытание</a>               |
+|        2 | 🎯 Классификация наивным Байесом                         | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/python-naive-bayes-classification-250427'>Начать Испытание</a>                      |
+|        3 | 🎯 Предсказание типов цветов с использованием ближайш... | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Начать Испытание</a> |
+|        4 | 🎯 Понимание кривых валидации                            | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/python-understanding-validation-curves-106940'>Начать Испытание</a>                 |
+|        5 | 🎯 Деревья решений                                       | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/python-decision-trees-92597'>Начать Испытание</a>                                   |
+|        6 | 🎯 Линейная регрессия                                    | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/python-linear-regression-185171'>Начать Испытание</a>                               |
+|        7 | 🎯 Кластеризация и инсайты                               | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/python-clustering-and-insights-198286'>Начать Испытание</a>                         |
 
 ## Больше
 
-- 🔗 [scikit-learn Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [scikit-learn Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
+- 🔗 [scikit-learn Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [scikit-learn Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [scikit-learn Бесплатные туториалы](https://github.com/labex-labs/sklearn-free-tutorials)
 
