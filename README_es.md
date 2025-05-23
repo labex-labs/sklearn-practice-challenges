@@ -31,17 +31,17 @@ Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 |   Índice | Nombre                                                   | Dificultad   | Práctica                                                                                                                             |
 |----------|----------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🎯 Comprender Métricas y Puntuación                      | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-understanding-metrics-and-scoring-185172'>Iniciar Desafío</a>               |
-|        2 | 🎯 Clasificación de Bayes ingenuo                        | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-naive-bayes-classification-250427'>Iniciar Desafío</a>                      |
-|        3 | 🎯 Predecir los Tipos de Flores con Vecinos Más Cerca... | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Iniciar Desafío</a> |
-|        4 | 🎯 Comprendiendo las curvas de validación                | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-understanding-validation-curves-106940'>Iniciar Desafío</a>                 |
-|        5 | 🎯 Árboles de Decisión                                   | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-decision-trees-92597'>Iniciar Desafío</a>                                   |
-|        6 | 🎯 Regresión Lineal                                      | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-linear-regression-185171'>Iniciar Desafío</a>                               |
-|        7 | 🎯 Agrupamiento e Insights                               | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-clustering-and-insights-198286'>Iniciar Desafío</a>                         |
+|        1 | 🎯 Comprender Métricas y Puntuación                      | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-understanding-metrics-and-scoring-185172'>Iniciar Desafío</a>               |
+|        2 | 🎯 Clasificación de Bayes ingenuo                        | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-naive-bayes-classification-250427'>Iniciar Desafío</a>                      |
+|        3 | 🎯 Predecir los Tipos de Flores con Vecinos Más Cerca... | Principiante | <a target='_blank' href='https://labex.io/es/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Iniciar Desafío</a> |
+|        4 | 🎯 Comprendiendo las curvas de validación                | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-understanding-validation-curves-106940'>Iniciar Desafío</a>                 |
+|        5 | 🎯 Árboles de Decisión                                   | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-decision-trees-92597'>Iniciar Desafío</a>                                   |
+|        6 | 🎯 Regresión Lineal                                      | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-linear-regression-185171'>Iniciar Desafío</a>                               |
+|        7 | 🎯 Agrupamiento e Insights                               | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-clustering-and-insights-198286'>Iniciar Desafío</a>                         |
 
 ## Más
 
-- 🔗 [scikit-learn Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [scikit-learn Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
+- 🔗 [scikit-learn Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [scikit-learn Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [scikit-learn Tutoriales Gratuitos](https://github.com/labex-labs/sklearn-free-tutorials)
 
