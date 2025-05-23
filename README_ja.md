@@ -31,17 +31,17 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                            | 難易度   | 練習                                                                                                                                  |
 |----------------|---------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------|
-|              1 | 🎯 メトリックスと評価の理解     | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/python-understanding-metrics-and-scoring-185172'>チャレンジを開始</a>               |
-|              2 | 🎯 ナイーブベイズ分類           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/python-naive-bayes-classification-250427'>チャレンジを開始</a>                      |
-|              3 | 🎯 近傍法を用いた花の種類の予測 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>チャレンジを開始</a> |
-|              4 | 🎯 検証曲線の理解               | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/python-understanding-validation-curves-106940'>チャレンジを開始</a>                 |
-|              5 | 🎯 決定木                       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/python-decision-trees-92597'>チャレンジを開始</a>                                   |
-|              6 | 🎯 線形回帰                     | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/python-linear-regression-185171'>チャレンジを開始</a>                               |
-|              7 | 🎯 クラスタリングと洞察         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/python-clustering-and-insights-198286'>チャレンジを開始</a>                         |
+|              1 | 🎯 メトリックスと評価の理解     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-understanding-metrics-and-scoring-185172'>チャレンジを開始</a>               |
+|              2 | 🎯 ナイーブベイズ分類           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-naive-bayes-classification-250427'>チャレンジを開始</a>                      |
+|              3 | 🎯 近傍法を用いた花の種類の予測 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>チャレンジを開始</a> |
+|              4 | 🎯 検証曲線の理解               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-understanding-validation-curves-106940'>チャレンジを開始</a>                 |
+|              5 | 🎯 決定木                       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-decision-trees-92597'>チャレンジを開始</a>                                   |
+|              6 | 🎯 線形回帰                     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-linear-regression-185171'>チャレンジを開始</a>                               |
+|              7 | 🎯 クラスタリングと洞察         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-clustering-and-insights-198286'>チャレンジを開始</a>                         |
 
 ## その他
 
-- 🔗 [scikit-learn Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [scikit-learn Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
+- 🔗 [scikit-learn プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [scikit-learn プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [scikit-learn 無料チュートリアル](https://github.com/labex-labs/sklearn-free-tutorials)
 
