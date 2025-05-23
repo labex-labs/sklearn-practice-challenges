@@ -31,17 +31,17 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                              | 난이도   | 연습                                                                                                                           |
 |----------|---------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🎯 Understanding Metrics and Scoring              | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-understanding-metrics-and-scoring-185172'>도전 시작</a>               |
-|        2 | 🎯 Naive Bayes Classification                     | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-naive-bayes-classification-250427'>도전 시작</a>                      |
-|        3 | 🎯 Predicting Flower Types with Nearest Neighbors | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>도전 시작</a> |
-|        4 | 🎯 Understanding Validation Curves                | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-understanding-validation-curves-106940'>도전 시작</a>                 |
-|        5 | 🎯 Decision Trees                                 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-decision-trees-92597'>도전 시작</a>                                   |
-|        6 | 🎯 Linear Regression                              | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-linear-regression-185171'>도전 시작</a>                               |
-|        7 | 🎯 Clustering and Insights                        | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-clustering-and-insights-198286'>도전 시작</a>                         |
+|        1 | 🎯 Understanding Metrics and Scoring              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-understanding-metrics-and-scoring-185172'>도전 시작</a>               |
+|        2 | 🎯 Naive Bayes Classification                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-naive-bayes-classification-250427'>도전 시작</a>                      |
+|        3 | 🎯 Predicting Flower Types with Nearest Neighbors | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>도전 시작</a> |
+|        4 | 🎯 Understanding Validation Curves                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-understanding-validation-curves-106940'>도전 시작</a>                 |
+|        5 | 🎯 Decision Trees                                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-decision-trees-92597'>도전 시작</a>                                   |
+|        6 | 🎯 Linear Regression                              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-linear-regression-185171'>도전 시작</a>                               |
+|        7 | 🎯 Clustering and Insights                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-clustering-and-insights-198286'>도전 시작</a>                         |
 
 ## 더 보기
 
-- 🔗 [scikit-learn Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [scikit-learn Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
+- 🔗 [scikit-learn 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [scikit-learn 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [scikit-learn 무료 튜토리얼](https://github.com/labex-labs/sklearn-free-tutorials)
 
