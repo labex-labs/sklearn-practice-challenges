@@ -13,6 +13,18 @@ Dieser Kurs enthält zahlreiche Aufgaben für Sklearn. Jede Aufgabe ist ein klei
 ![Sklearn](https://img.shields.io/badge/Sklearn-whitesmoke?style=for-the-badge&logo=sklearn)
 
 
+## Übungen
+
+|   Index | Name                                                  | Schwierigkeit   | Übung                                                                                                                                  |
+|---------|-------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🎯 🔵 Das Verständnis von Metriken und Bewertungen    | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-understanding-metrics-and-scoring-185172'>Challenge Starten</a>               |
+|       2 | 🎯 🔵 Naive Bayes Klassifikation                      | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-naive-bayes-classification-250427'>Challenge Starten</a>                      |
+|       3 | 🎯 🔵 Blumenarten mit k-nearest neighbors vorhersagen | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Challenge Starten</a> |
+|       4 | 🎯 🔵 Das Verständnis von Validierungskurven          | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-understanding-validation-curves-106940'>Challenge Starten</a>                 |
+|       5 | 🎯 🔵 Entscheidungsbäume                              | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-decision-trees-92597'>Challenge Starten</a>                                   |
+|       6 | 🎯 🔵 Lineare Regression                              | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-linear-regression-185171'>Challenge Starten</a>                               |
+|       7 | 🎯 🔵 Clustering und Einsichten                       | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-clustering-and-insights-198286'>Challenge Starten</a>                         |
+
 ## Umgebung
 
 LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung.
@@ -23,21 +35,9 @@ LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Tec
 - Interaktive Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen.
 - Eine strukturierte Inhaltsorganisation mit dem Skill-Tree-basierten System.
 - Eine wachsende Lernressource von 30 Skill Trees und über 6.000 Laboren.
-- Der KI-Lernassistent Labby, aufgebaut auf ChatGPT, bietet eine konversationelle Lernerfahrung.
+- Der Lernassistent Labby, aufgebaut auf den neuesten KI-Modellen, bietet eine konversationelle Lernerfahrung.
 
 Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Übungen
-
-|   Index | Name                                               | Schwierigkeit   | Übung                                                                                                                                  |
-|---------|----------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 🎯 Das Verständnis von Metriken und Bewertungen    | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-understanding-metrics-and-scoring-185172'>Challenge Starten</a>               |
-|       2 | 🎯 Naive Bayes Klassifikation                      | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-naive-bayes-classification-250427'>Challenge Starten</a>                      |
-|       3 | 🎯 Blumenarten mit k-nearest neighbors vorhersagen | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Challenge Starten</a> |
-|       4 | 🎯 Das Verständnis von Validierungskurven          | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-understanding-validation-curves-106940'>Challenge Starten</a>                 |
-|       5 | 🎯 Entscheidungsbäume                              | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-decision-trees-92597'>Challenge Starten</a>                                   |
-|       6 | 🎯 Lineare Regression                              | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-linear-regression-185171'>Challenge Starten</a>                               |
-|       7 | 🎯 Clustering und Einsichten                       | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-clustering-and-insights-198286'>Challenge Starten</a>                         |
 
 ## Mehr
 
