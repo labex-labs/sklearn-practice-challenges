@@ -15,15 +15,15 @@
 
 ## 연습
 
-|   인덱스 | 이름                                                 | 난이도   | 연습                                                                                                                           |
-|----------|------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🎯 🔵 Understanding Metrics and Scoring              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-understanding-metrics-and-scoring-185172'>도전 시작</a>               |
-|        2 | 🎯 🔵 Naive Bayes Classification                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-naive-bayes-classification-250427'>도전 시작</a>                      |
-|        3 | 🎯 🔵 Predicting Flower Types with Nearest Neighbors | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>도전 시작</a> |
-|        4 | 🎯 🔵 Understanding Validation Curves                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-understanding-validation-curves-106940'>도전 시작</a>                 |
-|        5 | 🎯 🔵 Decision Trees                                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-decision-trees-92597'>도전 시작</a>                                   |
-|        6 | 🎯 🔵 Linear Regression                              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-linear-regression-185171'>도전 시작</a>                               |
-|        7 | 🎯 🔵 Clustering and Insights                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-clustering-and-insights-198286'>도전 시작</a>                         |
+|   인덱스 | 이름                              | 난이도   | 연습                                                                                                                           |
+|----------|-----------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🎯  지표 및 점수 이해하기         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-understanding-metrics-and-scoring-185172'>도전 시작</a>               |
+|        2 | 🎯  나이브 베이즈 분류            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-naive-bayes-classification-250427'>도전 시작</a>                      |
+|        3 | 🎯  이웃을 이용한 꽃 종류 예측    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>도전 시작</a> |
+|        4 | 🎯  검증 곡선 이해하기            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-understanding-validation-curves-106940'>도전 시작</a>                 |
+|        5 | 🎯  결정 트리                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-decision-trees-92597'>도전 시작</a>                                   |
+|        6 | 🎯  선형 회귀 (Linear Regression) | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-linear-regression-185171'>도전 시작</a>                               |
+|        7 | 🎯  클러스터링 및 인사이트        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-clustering-and-insights-198286'>도전 시작</a>                         |
 
 ## 환경
 
