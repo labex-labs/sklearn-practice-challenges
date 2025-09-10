@@ -15,15 +15,15 @@ Dieser Kurs enthält zahlreiche Aufgaben für Sklearn. Jede Aufgabe ist ein klei
 
 ## Übungen
 
-|   Index | Name                                                  | Schwierigkeit   | Übung                                                                                                                                  |
-|---------|-------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 🎯 🔵 Das Verständnis von Metriken und Bewertungen    | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-understanding-metrics-and-scoring-185172'>Challenge Starten</a>               |
-|       2 | 🎯 🔵 Naive Bayes Klassifikation                      | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-naive-bayes-classification-250427'>Challenge Starten</a>                      |
-|       3 | 🎯 🔵 Blumenarten mit k-nearest neighbors vorhersagen | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Challenge Starten</a> |
-|       4 | 🎯 🔵 Das Verständnis von Validierungskurven          | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-understanding-validation-curves-106940'>Challenge Starten</a>                 |
-|       5 | 🎯 🔵 Entscheidungsbäume                              | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-decision-trees-92597'>Challenge Starten</a>                                   |
-|       6 | 🎯 🔵 Lineare Regression                              | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-linear-regression-185171'>Challenge Starten</a>                               |
-|       7 | 🎯 🔵 Clustering und Einsichten                       | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-clustering-and-insights-198286'>Challenge Starten</a>                         |
+|   Index | Name                                                | Schwierigkeit   | Übung                                                                                                                                  |
+|---------|-----------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🎯  Das Verständnis von Metriken und Bewertungen    | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-understanding-metrics-and-scoring-185172'>Challenge Starten</a>               |
+|       2 | 🎯  Naive Bayes Klassifikation                      | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-naive-bayes-classification-250427'>Challenge Starten</a>                      |
+|       3 | 🎯  Blumenarten mit k-nearest neighbors vorhersagen | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Challenge Starten</a> |
+|       4 | 🎯  Das Verständnis von Validierungskurven          | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-understanding-validation-curves-106940'>Challenge Starten</a>                 |
+|       5 | 🎯  Entscheidungsbäume                              | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-decision-trees-92597'>Challenge Starten</a>                                   |
+|       6 | 🎯  Lineare Regression                              | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-linear-regression-185171'>Challenge Starten</a>                               |
+|       7 | 🎯  Clustering und Einsichten                       | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-clustering-and-insights-198286'>Challenge Starten</a>                         |
 
 ## Umgebung
 
