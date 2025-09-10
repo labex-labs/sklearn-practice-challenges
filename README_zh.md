@@ -15,15 +15,15 @@
 
 ## 练习
 
-|   序号 | 名称                              | 难度   | 练习                                                                                                                          |
-|--------|-----------------------------------|--------|-------------------------------------------------------------------------------------------------------------------------------|
-|      1 | 🎯 🔵 理解指标与评分              | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-understanding-metrics-and-scoring-185172'>开始挑战</a>               |
-|      2 | 🎯 🔵 朴素贝叶斯分类              | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-naive-bayes-classification-250427'>开始挑战</a>                      |
-|      3 | 🎯 🔵 使用 k-近邻算法预测花卉类型 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>开始挑战</a> |
-|      4 | 🎯 🔵 理解验证曲线                | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-understanding-validation-curves-106940'>开始挑战</a>                 |
-|      5 | 🎯 🔵 决策树                      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-decision-trees-92597'>开始挑战</a>                                   |
-|      6 | 🎯 🔵 线性回归                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-linear-regression-185171'>开始挑战</a>                               |
-|      7 | 🎯 🔵 聚类与洞察                  | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-clustering-and-insights-198286'>开始挑战</a>                         |
+|   序号 | 名称                            | 难度   | 练习                                                                                                                          |
+|--------|---------------------------------|--------|-------------------------------------------------------------------------------------------------------------------------------|
+|      1 | 🎯  理解指标与评分              | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-understanding-metrics-and-scoring-185172'>开始挑战</a>               |
+|      2 | 🎯  朴素贝叶斯分类              | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-naive-bayes-classification-250427'>开始挑战</a>                      |
+|      3 | 🎯  使用 k-近邻算法预测花卉类型 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>开始挑战</a> |
+|      4 | 🎯  理解验证曲线                | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-understanding-validation-curves-106940'>开始挑战</a>                 |
+|      5 | 🎯  决策树                      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-decision-trees-92597'>开始挑战</a>                                   |
+|      6 | 🎯  线性回归                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-linear-regression-185171'>开始挑战</a>                               |
+|      7 | 🎯  聚类与洞察                  | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-clustering-and-insights-198286'>开始挑战</a>                         |
 
 ## 学习环境
 
