@@ -15,15 +15,15 @@ Ce cours contient de nombreux défis pour Sklearn. Chaque défi est un petit pro
 
 ## Exercices
 
-|   Index | Nom                                                         | Difficulté   | Pratique                                                                                                                               |
-|---------|-------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 🎯 🔵 Comprendre les métriques et le scoring                | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/python-understanding-metrics-and-scoring-185172'>Commencer le Défi</a>               |
-|       2 | 🎯 🔵 Classification Bayesienne naïve                       | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/python-naive-bayes-classification-250427'>Commencer le Défi</a>                      |
-|       3 | 🎯 🔵 Prédiction des types de fleurs avec les plus proch... | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Commencer le Défi</a> |
-|       4 | 🎯 🔵 Comprendre les courbes de validation                  | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/python-understanding-validation-curves-106940'>Commencer le Défi</a>                 |
-|       5 | 🎯 🔵 Arbres de décision                                    | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/python-decision-trees-92597'>Commencer le Défi</a>                                   |
-|       6 | 🎯 🔵 Régression linéaire                                   | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/python-linear-regression-185171'>Commencer le Défi</a>                               |
-|       7 | 🎯 🔵 Classification et Analyses                            | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/python-clustering-and-insights-198286'>Commencer le Défi</a>                         |
+|   Index | Nom                                                       | Difficulté   | Pratique                                                                                                                               |
+|---------|-----------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🎯  Comprendre les métriques et le scoring                | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/python-understanding-metrics-and-scoring-185172'>Commencer le Défi</a>               |
+|       2 | 🎯  Classification Bayesienne naïve                       | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/python-naive-bayes-classification-250427'>Commencer le Défi</a>                      |
+|       3 | 🎯  Prédiction des types de fleurs avec les plus proch... | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Commencer le Défi</a> |
+|       4 | 🎯  Comprendre les courbes de validation                  | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/python-understanding-validation-curves-106940'>Commencer le Défi</a>                 |
+|       5 | 🎯  Arbres de décision                                    | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/python-decision-trees-92597'>Commencer le Défi</a>                                   |
+|       6 | 🎯  Régression linéaire                                   | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/python-linear-regression-185171'>Commencer le Défi</a>                               |
+|       7 | 🎯  Classification et Analyses                            | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/python-clustering-and-insights-198286'>Commencer le Défi</a>                         |
 
 ## Environnement
 
