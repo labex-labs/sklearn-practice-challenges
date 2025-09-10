@@ -15,15 +15,15 @@ Este curso contém diversos desafios para Sklearn, cada um sendo um pequeno proj
 
 ## Exercícios
 
-|   Índice | Nome                                                 | Dificuldade   | Prática                                                                                                                              |
-|----------|------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🎯 🔵 Understanding Metrics and Scoring              | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-understanding-metrics-and-scoring-185172'>Iniciar Desafio</a>               |
-|        2 | 🎯 🔵 Naive Bayes Classification                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-naive-bayes-classification-250427'>Iniciar Desafio</a>                      |
-|        3 | 🎯 🔵 Predicting Flower Types with Nearest Neighbors | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Iniciar Desafio</a> |
-|        4 | 🎯 🔵 Understanding Validation Curves                | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-understanding-validation-curves-106940'>Iniciar Desafio</a>                 |
-|        5 | 🎯 🔵 Decision Trees                                 | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-decision-trees-92597'>Iniciar Desafio</a>                                   |
-|        6 | 🎯 🔵 Linear Regression                              | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-linear-regression-185171'>Iniciar Desafio</a>                               |
-|        7 | 🎯 🔵 Clustering and Insights                        | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-clustering-and-insights-198286'>Iniciar Desafio</a>                         |
+|   Índice | Nome                                                      | Dificuldade   | Prática                                                                                                                              |
+|----------|-----------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🎯  Compreendendo Métricas e Pontuação                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-understanding-metrics-and-scoring-185172'>Iniciar Desafio</a>               |
+|        2 | 🎯  Classificação Naive Bayes                             | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-naive-bayes-classification-250427'>Iniciar Desafio</a>                      |
+|        3 | 🎯  Previsão de Tipos de Flores com Vizinhos Mais Próx... | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Iniciar Desafio</a> |
+|        4 | 🎯  Compreendendo Curvas de Validação                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-understanding-validation-curves-106940'>Iniciar Desafio</a>                 |
+|        5 | 🎯  Árvores de Decisão                                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-decision-trees-92597'>Iniciar Desafio</a>                                   |
+|        6 | 🎯  Regressão Linear                                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-linear-regression-185171'>Iniciar Desafio</a>                               |
+|        7 | 🎯  Clustering e Insights                                 | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-clustering-and-insights-198286'>Iniciar Desafio</a>                         |
 
 ## Ambiente
 
