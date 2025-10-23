@@ -15,19 +15,19 @@ This course contains lots of challenges for Sklearn, each challenge is a small S
 
 ## Exercises
 
-|   Index | Name                                               | Difficulty   | Practice                                                                                                                          |
-|---------|----------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 🎯  Understanding Metrics and Scoring              | Beginner     | <a target='_blank' href='https://labex.io/labs/python-understanding-metrics-and-scoring-185172'>Start Challenge</a>               |
-|       2 | 🎯  Naive Bayes Classification                     | Beginner     | <a target='_blank' href='https://labex.io/labs/python-naive-bayes-classification-250427'>Start Challenge</a>                      |
-|       3 | 🎯  Predicting Flower Types with Nearest Neighbors | Beginner     | <a target='_blank' href='https://labex.io/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Start Challenge</a> |
-|       4 | 🎯  Understanding Validation Curves                | Beginner     | <a target='_blank' href='https://labex.io/labs/python-understanding-validation-curves-106940'>Start Challenge</a>                 |
-|       5 | 🎯  Decision Trees                                 | Beginner     | <a target='_blank' href='https://labex.io/labs/python-decision-trees-92597'>Start Challenge</a>                                   |
-|       6 | 🎯  Linear Regression                              | Beginner     | <a target='_blank' href='https://labex.io/labs/python-linear-regression-185171'>Start Challenge</a>                               |
-|       7 | 🎯  Clustering and Insights                        | Beginner     | <a target='_blank' href='https://labex.io/labs/python-clustering-and-insights-198286'>Start Challenge</a>                         |
+|   Index | Name                                               | Difficulty   | Practice                                                                                                                                                             |
+|---------|----------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🎯  Understanding Metrics and Scoring              | Beginner     | <a target='_blank' href='https://labex.io/labs/python-understanding-metrics-and-scoring-185172?course=sklearn-practice-challenges'>Start Challenge</a>               |
+|       2 | 🎯  Naive Bayes Classification                     | Beginner     | <a target='_blank' href='https://labex.io/labs/python-naive-bayes-classification-250427?course=sklearn-practice-challenges'>Start Challenge</a>                      |
+|       3 | 🎯  Predicting Flower Types with Nearest Neighbors | Beginner     | <a target='_blank' href='https://labex.io/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147?course=sklearn-practice-challenges'>Start Challenge</a> |
+|       4 | 🎯  Understanding Validation Curves                | Beginner     | <a target='_blank' href='https://labex.io/labs/python-understanding-validation-curves-106940?course=sklearn-practice-challenges'>Start Challenge</a>                 |
+|       5 | 🎯  Decision Trees                                 | Beginner     | <a target='_blank' href='https://labex.io/labs/python-decision-trees-92597?course=sklearn-practice-challenges'>Start Challenge</a>                                   |
+|       6 | 🎯  Linear Regression                              | Beginner     | <a target='_blank' href='https://labex.io/labs/python-linear-regression-185171?course=sklearn-practice-challenges'>Start Challenge</a>                               |
+|       7 | 🎯  Clustering and Insights                        | Beginner     | <a target='_blank' href='https://labex.io/labs/python-clustering-and-insights-198286?course=sklearn-practice-challenges'>Start Challenge</a>                         |
 
 ## About LabEx
 
-LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the Skill Tree learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, LabEx offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
+[LabEx](https://labex.io) is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the [Skill Tree](https://labex.io/learn) learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, [LabEx](https://labex.io) offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
 
 ## More
 
